@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>MIMODetDemo_v3a</label>
+  <version>1.0</version>
+  <type>app</type>
+  <packagedBy>(R2017b)</packagedBy>
+  <identifier>a0a2570f-7817-4a55-a224-a802e7b4ba2e</identifier>
+  <summary>MIMO Detector Bundle Demo</summary>
+  <description>This is the version under 2017b and soft detector with decoding is on developing !!</description>
+  <createdBy name="Yun Wu" company="Queen's University Belfast" email="ywu12@qub.ac.uk"/>
+  <image>resources/screenshot.png</image>
+  <icons>
+    <icon tag="0">resources/icon_48.png</icon>
+    <icon tag="1">resources/icon_24.png</icon>
+    <icon tag="2">resources/icon_16.png</icon>
+  </icons>
+</addonCore>
